@@ -12,11 +12,11 @@ void calcSquareEquat(int _a, int _b, int _c) {
 	if (D > 0) {
 		x1 = (-_b - sqrt(D)) / (2 * _a);
 		x2 = (-_b + sqrt(D)) / (2 * _a);
-		cout << "X1= " << x1 << " X2= " << x2;
+		cout << "X1= " << x1 << " X2= " << x2 << endl;
 	}
 	else if (D == 0) {
 		x1 = -_b / (2 * _a);
-		cout << "X= " << x1;
+		cout << "X= " << x1 << endl;
 	}
 	else {
 		real = -_b / (2 * _a);
