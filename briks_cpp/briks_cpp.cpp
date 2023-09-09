@@ -8,10 +8,11 @@ void calcSquareEquat(int _a, int _b, int _c) {
 	double D, x1, x2, real, imagin;
 
 	D = pow(_b, 2) - 4 * _a * _c;
+	cout << "D= " << D << endl;
 
 	if (D > 0) {
-		x1 = (-_b - sqrt(D)) / (2 * _a);
-		x2 = (-_b + sqrt(D)) / (2 * _a);
+		x1 = (-_b + sqrt(D)) / (2 * _a);
+		x2 = (-_b - sqrt(D)) / (2 * _a);
 		cout << "X1= " << x1 << " X2= " << x2 << endl;
 	}
 	else if (D == 0) {
@@ -20,8 +21,7 @@ void calcSquareEquat(int _a, int _b, int _c) {
 	}
 	else {
 		real = -_b / (2 * _a);
-		imagin = sqrt(-D) / (2 * _a);
-		cout << "D= " << D << endl;
+		imagin = sqrt(-D) / (2 * _a);		
 		cout << "X1 = " << real << "+" << imagin << "i" << endl;
 		cout << "X2 = " << real << "-" << imagin << "i" << endl;
 	}
