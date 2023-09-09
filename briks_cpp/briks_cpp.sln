@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "briks_cpp", "briks_cpp.vcxproj", "{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}.Debug|x64.ActiveCfg = Debug|x64
+		{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}.Debug|x64.Build.0 = Debug|x64
+		{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}.Debug|x86.Build.0 = Debug|Win32
+		{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}.Release|x64.ActiveCfg = Release|x64
+		{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}.Release|x64.Build.0 = Release|x64
+		{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}.Release|x86.ActiveCfg = Release|Win32
+		{E23EFD4B-059D-4606-BFF2-1DE2D5FE9AD4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F04E41-CC4D-4B6F-A387-3D292FE0575D}
+	EndGlobalSection
+EndGlobal

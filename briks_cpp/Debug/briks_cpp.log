@@ -1,0 +1,3 @@
+﻿  briks_cpp.cpp
+D:\Study\UNI-BRIKS\III-Semestr\Програмированние на языке C++\HW\briks_cpp\briks_cpp.cpp(30,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  briks_cpp.vcxproj -> D:\Study\UNI-BRIKS\III-Semestr\Програмированние на языке C++\HW\briks_cpp\Debug\briks_cpp.exe

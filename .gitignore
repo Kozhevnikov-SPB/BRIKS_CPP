@@ -2,4 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/briks_cpp/Debug
+/briks_cpp/.vs/briks_cpp/v16
